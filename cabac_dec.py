@@ -1,4 +1,3 @@
-from
 
 class CABACDecoder:
     def __init__(self, bitstream):
